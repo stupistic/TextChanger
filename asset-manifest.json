@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TextChanger/static/css/main.c2bacffc.css",
+    "main.js": "/TextChanger/static/js/main.7980502a.js",
+    "static/js/787.f237a53c.chunk.js": "/TextChanger/static/js/787.f237a53c.chunk.js",
+    "static/media/logo.svg": "/TextChanger/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TextChanger/index.html",
+    "main.c2bacffc.css.map": "/TextChanger/static/css/main.c2bacffc.css.map",
+    "main.7980502a.js.map": "/TextChanger/static/js/main.7980502a.js.map",
+    "787.f237a53c.chunk.js.map": "/TextChanger/static/js/787.f237a53c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2bacffc.css",
+    "static/js/main.7980502a.js"
+  ]
+}
